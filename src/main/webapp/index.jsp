@@ -21,5 +21,8 @@
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
    JENKINS COMPLETED SUCCESSFULLY
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+   Project Automation
+</h1>
 </body>
 </html>
