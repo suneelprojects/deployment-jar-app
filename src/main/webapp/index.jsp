@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
    Jenkins END-to-END project is Done
 </h1>
+<h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
+   JENKINS COMPLETED SUCCESSFULLY
+</h1>
 </body>
 </html>
