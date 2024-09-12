@@ -15,5 +15,8 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
    Nexus Setup is Done
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+   Completed Jenkins END to END Project Successfully
+</h1>
 </body>
 </html>
