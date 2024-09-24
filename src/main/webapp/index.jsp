@@ -15,8 +15,5 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Checking Automation through POLLSCM
 </h1>
-<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-    Checking Automation through POLLSCM again
-</h1>
 </body>
 </html>
