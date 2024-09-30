@@ -21,5 +21,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Checking Deployment using Automation
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    Nexus Integration is Done
+</h1>
 </body>
 </html>
