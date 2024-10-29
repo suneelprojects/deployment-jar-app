@@ -24,5 +24,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Nexus Integration is Done
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+     jenkins end to end deployment is done 
+</h1>
 </body>
 </html>
