@@ -7,6 +7,6 @@
     Welcome to Automate the Build Process using Jenkins
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    MAKING CHANGES IN CODE
+    MAKING CHANGES IN NEXUS REPO
 </body>
 </html>
