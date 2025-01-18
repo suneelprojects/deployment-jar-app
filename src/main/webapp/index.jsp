@@ -7,6 +7,6 @@
     Welcome to Automate the Build Process using Jenkins
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    COMPLETED
+    MAKING CHANGES IN CODE
 </body>
 </html>
