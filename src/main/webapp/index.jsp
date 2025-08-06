@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     We have successfuly Completed the Jenkins FREESTYLE Deployment!!!
 </h1>
+<h1 style="font-weight: bold; color: pink; font-size: 30px; text-align: center;">
+    We have successfuly Setup the Nexus Artifactory Tool!!!
+</h1>
 </body>
 </html>
