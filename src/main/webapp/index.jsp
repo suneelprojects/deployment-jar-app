@@ -17,6 +17,8 @@
 </h1>
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Successfully Completed Jenkins FreeStyle Deployment!!!!
+</h1><h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+    Checking Automation configured through PollSCM!!!
 </h1>
 </body>
 </html>
