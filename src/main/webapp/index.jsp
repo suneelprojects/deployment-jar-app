@@ -20,5 +20,8 @@
 </h1><h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     Checking Automation configured through PollSCM!!!
 </h1>
+</h1><h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    Nexus Setup done Successfullyyy!!!
+</h1>
 </body>
 </html>
