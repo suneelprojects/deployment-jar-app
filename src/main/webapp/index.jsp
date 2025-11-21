@@ -22,6 +22,8 @@
 </h1>
 </h1><h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Nexus Setup done Successfullyyy!!!
+</h1></h1><h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    Successfully Saving Artifacts into Nexus Repository!!!
 </h1>
 </body>
 </html>
