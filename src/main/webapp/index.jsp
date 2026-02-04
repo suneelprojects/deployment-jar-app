@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     Successfully Completed Jenkins Freestyle Deployment
 </h1>
+<h1 style="font-weight: bold; color: yellow; font-size: 30px; text-align: center;">
+    Successfully Integrated Nexus with Jenkins
+</h1>
 </body>
 </html>
