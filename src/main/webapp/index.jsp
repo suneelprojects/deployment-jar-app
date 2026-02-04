@@ -24,5 +24,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     Successfully Saving Artifacts in Nexus Repository
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    Changing from Version Confirmation
+</h1>
 </body>
 </html>
